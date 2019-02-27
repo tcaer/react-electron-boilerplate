@@ -1,0 +1,12 @@
+{
+  "comments": false,
+  "env": {
+    "main": {
+      "presets": [
+        ["@babel/preset-env", {
+          "targets": {"node": 7}
+        }]
+      ]
+    }
+  }
+}
